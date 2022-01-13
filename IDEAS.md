@@ -1,0 +1,6 @@
+- Array/List
+- HashMap/Dictionary
+- Graph
+- Union with Type Sentinel
+- Map/Reduce
+- State Machines
