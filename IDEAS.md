@@ -1,6 +1,10 @@
 - Array/List
 - HashMap/Dictionary
+- Stack
+- Queue
 - Graph
 - Union with Type Sentinel
+  - Used to represent Commands, Events, etc.
+- Interfaces, Implementations, and Abstract Data Types
 - Map/Reduce
 - State Machines
